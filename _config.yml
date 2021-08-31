@@ -5,7 +5,7 @@ email: tflthree@gmail.com
 lang: en-us
 copyright: "&#x2117; &amp; &#xA9; 2021"
 logo: /assets/img/silm-logo.jpeg
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+# remote_theme: "mmistakes/jekyll-theme-basically-basic"
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
